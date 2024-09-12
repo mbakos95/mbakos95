@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently engaged in AI and Machine Learning projects.<br>🌱 I'm currently exploring AI, Machine Learning, and Deep Learning technologies.<br>⚡ Fun fact Neural networks are inspired by the human brain, with artificial <br>      "neurons" simulating our biological ones.
+🔭 I'm currently engaged in AI and Machine Learning projects.<br>🌱 I'm currently exploring AI, Machine Learning, and Deep Learning technologies.<br>⚡ Fun fact Neural networks are inspired by the human brain, with artificial "neurons" simulating our biological ones.
 
 
 ## 🌐 Socials:
