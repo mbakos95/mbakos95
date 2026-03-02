@@ -5,7 +5,6 @@ AI/ML & Data Engineer with ~6 years of experience across data engineering and ML
 📫 **Email:** zambakosxristos@hotmail.com  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mbakoszambakos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-zampakos-066443185/)
 
 # 💻 Tech Stack:
